@@ -1,0 +1,11 @@
+* gzip-stream
+
+gzip-stream is a simple wrapper around salza which gives CL users gzip
+compression and decompression in the form of streams
+(gzip-input-stream and gzip-output-stream).
+
+|---------+----------------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/gzip-stream/gzip-stream.git |
+| commit  | 5ad295d                                                        |
+| systems | gzip-stream                                                    |
+|---------+----------------------------------------------------------------|
