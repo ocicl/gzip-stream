@@ -9,3 +9,4 @@ compression and decompression in the form of streams
 | version | 0.2.8                                                                         |
 | systems | gzip-stream                                                                   |
 |---------+-------------------------------------------------------------------------------|
+ 
